@@ -1,0 +1,20 @@
+{
+	"occwm": "Buyurtma narxi hisoblab chiqildi",
+	"cashless_not_allowed": "Bu toʼlov uslubiga ruxsat yoʼq",
+	"cc_has_expired": "Sizning kartangizning muddati tugagan. Iltimos, yangi kartani koʼrsating",
+	"select_service": "Bu xizmat mavjud yemas. Iltimos sozlamalardan boshqasini tanlang",
+	"need_first_point": "Sizni qayerdan olib ketish kerak? manzilini koʼrsating.",
+	"need_second_point": "Siz ikkinchi yoʼnalishni koʼrsatmadingiz",
+	"you_blocked": "Siz bloklangansiz!",
+	"limit_exceeded": "Soʼrov chegarasi oshdi, keyin yana urinib koʼring $1 sonidan keyin",
+	"check_card": "Tanlangan karta haqiqiy yemas, iltimos, boshqa toʼlov usulini koʼrsating",
+	"date_pre_order_in_past": "Oldindan buyurtma berishuchun, oʼtgan sanani belgilash mumkin yemas!",
+	"date_pre_order_less": "Xozirgi vaqtga oldindan buyurtma yaratib boʼlmaydi!",
+	"date_pre_order_more": "Uzoq vaqt oraligʼiga oldindan buyurtma berib boʼlmaydi!",
+	"not_enough_funds": "Korporativ hisob yetarli mablagʼlar!",
+	"out_of_balance": "Boʼnus hisobida mablagʼ yetarli yemas!",
+	"client_not_found": "Mijoz topilmadi",
+	"disallow_send_yourself": "Siz oʼzingiz oʼzingizga bonuslar yuboraolmaysiz",
+	"invalid_phone_number": "Telefon raqami notoʼgʼri",
+	"disallow_online_order":"Siz Ilovadan buyurtma beraolmaysiz, telefon orqali operatorga murojat qiling"
+}

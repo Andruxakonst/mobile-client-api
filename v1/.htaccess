@@ -1,0 +1,13 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteRule ^ index.php [QSA,L]
+</IfModule>
+
+<IfModule mod_headers.c>
+	Header set Access-Control-Allow-Origin *
+	Header set Access-Control-Allow-Headers *
+	Header set Access-Control-Allow-Methods *
+	Header set Access-Control-Max-Age 2592000
+</IfModule>

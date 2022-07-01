@@ -1,0 +1,9 @@
+{
+	"user_blocked_pay_via_cash": "El usuario está bloqueado, paga en efectivo",
+	"no_money_pay_via_cash": "No hay suficiente efectivo, paga en efectivo",
+	"otp_mismatch": "Ingresó la contraseña única incorrecta para confirmar la orden de pago",
+	"verify_expired": "El tiempo para confirmar que la orden de pago ha expirado, pagar en efectivo",
+	"failed_to_pay": "No se pudo pagar de la cuenta",
+	"failed_to_pay_check_reg": "¡Error en el pago! Compruebe si su número está registrado en balance.kg",
+	"limit_exceeded": "Se ha excedido el límite de solicitud, intente nuevamente"
+}

@@ -1,0 +1,9 @@
+{
+	"user_blocked_pay_via_cash": "Foydalanuvchi bloklangan, naqd pulda toʼlang",
+	"no_money_pay_via_cash": "Mablagʼ yetmaydi, naqd pulda toʼlang",
+	"otp_mismatch": "Siz toʼlov tartibini tasdiqlash uchun notoʼgʼri bir martalik parolni kiritdingiz",
+	"verify_expired": "Toʼlovni amalga oshirish vaqti tugadi, naqd pul bilan toʼlash",
+	"failed_to_pay": "Hisobdan toʼlovni amalga oshirib boʼlmadi",
+	"failed_to_pay_check_reg": "Toʼlov xatosi! Raqamingiz roʼyxatdan oʼtganligini tekshiring balance.kg",
+	"limit_exceeded": "Soʼrov vaqti oshdi, keyinroq qayta urinib koʼring"
+}

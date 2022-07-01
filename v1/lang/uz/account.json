@@ -1,0 +1,17 @@
+{
+	"you_already_used_this_promotional_code": "Siz bu promo-koddan foydalangansiz",
+	"you_already_used_this_promotional_code_in_other_service": "Siz ushbu promo-kodni ilovada ishlatgansiz \"$$\"",
+	"promo_code_activated": "Promo-kod aktivlashgan",
+	"promo_code_activated_in_other_service": "Promo-kod \"$$\", xizmatida yoqilgan, chegirmalar va bonuslarni olish uchun ushbu xizmatni dastur sozlamalarida tanlang",
+	"promotion_is_already_finished": "Аksiya allaqachon yakunlandi",
+	"action_has_not_yet_begun_promo_start_date": "Аksiya hali boshlanmadi. Аksiya boshlanish sanasi: $$",
+	"promo_code_not_found": "Promo-kod topilmadi",
+	"not_allowed_for_firm": "Ilovada ushbu telefon raqamini roʼyxatdan oʼtkazish, agar operator orqali yaratilgan $ $ va undan muvaffaqiyatli buyurtmalar boʼlsa mumkin",
+	"wait_sms": "Parol SMS orqali kuting",
+	"wait_call": "Roʼyxatdan oʼtish paytida koʼrsatilgan telefon raqamiga kiruvchi qoʼngʼiroqni kuting",
+	"send_sms_exceed": "Parolni talab qilish chegarasi oshdi",
+	"driver_who_invited_0": "Raqam notoʼgʼri yoki mavjud yemas",
+	"driver_who_invited_1": "Raqam muvaffaqiyatli qoʼshildi",
+	"driver_who_invited_2": "Bunday Raqam allaqachon qayd yetilgan",
+	"driver_who_invited_3": "Ilova bir soatdan oldin oʼrnatilgan yedi"
+}

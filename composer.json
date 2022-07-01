@@ -1,0 +1,12 @@
+{
+	"autoload": {
+		"psr-4": {
+			"Uptaxi\\": "v1/"
+		}
+	},
+	"require": {
+		"slim/slim": "^3.0",
+		"vlucas/phpdotenv": "^2.5",
+		"firebase/php-jwt": "^5.0"
+	}
+}

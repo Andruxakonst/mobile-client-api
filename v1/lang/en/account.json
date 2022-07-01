@@ -1,0 +1,17 @@
+{
+	"you_already_used_this_promotional_code": "You have already used this promotional code",
+	"you_already_used_this_promotional_code_in_other_service": "You have already used this promotional code in the \"$$\" service",
+	"promo_code_activated": "Promo code activated",
+	"promo_code_activated_in_other_service": "The promotional code is activated in the \"$$\" service. To receive discounts and bonuses, select this service in the application settings",
+	"promotion_is_already_finished": "Promotion has been already finished",
+	"action_has_not_yet_begun_promo_start_date": "The promotion has not yet begun. Promo start at: $$",
+	"promo_code_not_found": "Promo code not found",
+	"not_allowed_for_firm": "Registration of this phone number in the application is possible if there are $$ or more successful trips created through the operator",
+	"wait_sms": "Wait for sms with password",
+	"wait_call": "Wait for an incoming call to the phone specified during registration",
+	"send_sms_exceed": "Password request limit exceeded",
+	"driver_who_invited_0": "Call sign is incorrect or does not exist",
+	"driver_who_invited_1": "Callsign successfully added",
+	"driver_who_invited_2": "This call sign is already recorded",
+	"driver_who_invited_3": "The application was installed more than one hour ago"
+}

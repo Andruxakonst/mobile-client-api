@@ -1,0 +1,9 @@
+{
+	"user_blocked_pay_via_cash": "User is blocked, pay in cash",
+	"no_money_pay_via_cash": "Not enough cash, pay cash",
+	"otp_mismatch": "You entered the wrong one-time password to confirm the payment order",
+	"verify_expired": "The time to confirm the payment order has expired, pay in cash",
+	"failed_to_pay": "Failed to pay from account",
+	"failed_to_pay_check_reg": "Payment error! Check if your number is registered in balance.kg",
+	"limit_exceeded": "Request limit exceeded, please try again later"
+}

@@ -1,0 +1,20 @@
+{
+	"occwm": "Hesaplanan sipariş değeri",
+	"cashless_not_allowed": "Bu ödeme yöntemine izin verilmiyor.",
+	"cc_has_expired": "Kredi kartınızın kullanım süresi doldu. Lütfen yeni bir kart girin.",
+	"select_service": "Bu hizmet kullanılamıyor. Lütfen ayarlarda başka bir tane seçin",
+	"need_first_point": "Sizi alacağınız adresi girin",
+	"need_second_point": "Siparişteki ikinci öğeyi belirtmediniz",
+	"you_blocked": "Engellendi!",
+	"limit_exceeded": "İstek sınırı aşıldı, $1 saniye içinde tekrar deneyin",
+	"check_card": "Seçilen kart geçerli değil, lütfen farklı bir ödeme yöntemi belirtin",
+	"date_pre_order_in_past": "Geçmiş zamanda bir ön sipariş tarihi belirleyemezsiniz!",
+	"date_pre_order_less": "Ön sipariş yakında oluşturulamaz!",
+	"date_pre_order_more": "Uzak gelecekte rezervasyon yapılamaz!",
+	"not_enough_funds": "Kurumsal hesapta yeterli para yok!",
+	"out_of_balance": "Bonus hesabında yeterli para yok!",
+	"client_not_found": "Müşteri bulunamadı",
+	"disallow_send_yourself": "Kendinize bonus gönderemezsiniz",
+	"invalid_phone_number": "Geçersiz telefon numarası",
+	"disallow_online_order":"Uygulamadan sipariş oluşturamazsınız, operatöre telefonla ulaşın"
+}

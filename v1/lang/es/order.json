@@ -1,0 +1,20 @@
+{
+	"occwm": "Se realizó el cálculo del coste del orden",
+	"cashless_not_allowed": "Este método de pago no está permitido",
+	"cc_has_expired": "Su tarjeta de crédito ha caducado. Por favor, especifique una nueva tarjeta",
+	"select_service": "Este servicio no está disponible. Por favor, seleccione otro servicio en la configuración",
+	"need_first_point": "Especifique la dirección donde recogerlo",
+	"need_second_point": "No ha especificado el segundo punto en el orden",
+	"you_blocked": "¡Estás bloqueado!",
+	"limit_exceeded": "Se excedió el límite de solicitud, intente nuevamente en $1 seg",
+	"check_card": "La tarjeta seleccionada no es válida, especifique un método de pago diferente",
+	"date_pre_order_in_past": "¡No puede especificar una fecha de orden anticipado en el pasado!",
+	"date_pre_order_less": "¡El orden anticipado no se puede crear pronto!",
+	"date_pre_order_more": "¡No se puede crear un orden anticipado en un futuro lejano!",
+	"not_enough_funds": "¡No hay suficientes fondos en la cuenta corporativa!",
+	"out_of_balance": "¡Fondos insuficientes en la cuenta de bonificación!",
+	"client_not_found": "Cliente no encontrado",
+	"disallow_send_yourself": "No puedes enviarte bonos a ti mismo",
+	"invalid_phone_number": "Numero de telefono invalido",
+	"disallow_online_order":"No puedes crear pedidos desde la aplicación, contacta con el operador por teléfono"
+}

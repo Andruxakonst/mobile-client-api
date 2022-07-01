@@ -1,0 +1,9 @@
+{
+	"user_blocked_pay_via_cash": "Kullanıcı engellendi, nakit ödeme",
+	"no_money_pay_via_cash": "Yeterli nakit yok, nakit ödeme",
+	"otp_mismatch": "Ödeme talimatını onaylamak için bir defalık yanlış şifre girdiniz",
+	"verify_expired": "Ödeme emrinin süresinin dolduğunu onaylama zamanı, peşin ödeme",
+	"failed_to_pay": "Hesaptan ödeme yapılamadı",
+	"failed_to_pay_check_reg": "Ödeme hatası! Numaranızın kayıtlı olup olmadığını kontrol balance.kg'da",
+	"limit_exceeded": "İstek sınırı aşıldı, lütfen daha sonra tekrar deneyin"
+}

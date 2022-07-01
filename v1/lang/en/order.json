@@ -1,0 +1,20 @@
+{
+	"occwm": "Order cost calculation was made",
+	"cashless_not_allowed": "This payment method is not allowed",
+	"cc_has_expired": "Your credit card has expired. Please, specify a new card",
+	"select_service": "This service has unavailable. Please, select another service in settings",
+	"need_first_point": "Specify the address where to pick you up",
+	"need_second_point": "You did not specify the second point in the order",
+	"you_blocked": "You are blocked!",
+	"limit_exceeded": "Request limit exceeded, try again in $1 sec",
+	"check_card": "Selected card is not valid, please specify a different payment method",
+	"date_pre_order_in_past": "You cannot specify a pre-order date in the past!",
+	"date_pre_order_less": "Pre-order cannot be created soon!",
+	"date_pre_order_more": "A pre-order cannot be created in the distant future!",
+	"not_enough_funds": "Not enough funds in the corporate account!",
+	"out_of_balance": "Insufficient funds on bonus account!",
+	"client_not_found": "Client not found",
+	"disallow_send_yourself": "You cannot send bonuses to yourself",
+	"invalid_phone_number": "Invalid phone number",
+	"disallow_online_order":"You cannot create orders from the application, contact the operator by phone"
+}

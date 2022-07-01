@@ -1,0 +1,17 @@
+{
+	"you_already_used_this_promotional_code": "Ya has utilizado este código promocional",
+	"you_already_used_this_promotional_code_in_other_service": "Ya ha utilizado este código promocional en el servicio \"$$\"",
+	"promo_code_activated": "Código de promoción activado",
+	"promo_code_activated_in_other_service": "El código promocional se activa en el servicio \"$$\". Para recibir descuentos y bonificaciones, seleccione este servicio en la configuración de la aplicación",
+	"promotion_is_already_finished": "La promoción ya se ha terminado",
+	"action_has_not_yet_begun_promo_start_date": "La promoción aún no ha comenzado. La promoción comienza en: $$",
+	"promo_code_not_found": "Código de promoción no encontrado",
+	"not_allowed_for_firm": "El registro de este número de teléfono en la aplicación es posible si hay $$ o más viajes exitosos creados a través del operador",
+	"wait_sms": "Espera sms con contraseña",
+	"wait_call": "Espere una llamada entrante al teléfono especificado durante el registro",
+	"send_sms_exceed": "Límite de solicitud de contraseña excedido",
+	"driver_who_invited_0": "La señal de llamada es incorrecta o no existe",
+	"driver_who_invited_1": "Callsign agregado con éxito",
+	"driver_who_invited_2": "Este indicativo de llamada ya está registrado",
+	"driver_who_invited_3": "La aplicación se instaló hace más de una hora"
+}
